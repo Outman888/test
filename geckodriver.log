@@ -1,0 +1,1283 @@
+1509589203826	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+1509590207921	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1509590259808	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1509590335392	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1509590440790	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1509590468118	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1509590645751	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1509590747700	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1509590769290	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+1509592341021	geckodriver	INFO	geckodriver 0.19.1
+1509592341035	geckodriver	INFO	Listening on 127.0.0.1:34175
+1509592343190	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hxd\\AppData\\Local\\Temp\\rust_mozprofile.KtunLF3VGixy"
+1509592343706	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509592344334	Marionette	INFO	Enabled via --marionette
+[Child 4916] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4916] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2400FC,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/extension-process-script.js, line 339: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+1509592347018	Marionette	INFO	Listening on port 34187
+1509592347378	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509592347440	Marionette	DEBUG	Register listener.js for window 4294967297
+1509592347490	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509592347649	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509592347650	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://www.zjtax.gov.cn/, line 45: unreachable code after return statement
+1509592349723	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.zjtax.gov.cn/"
+JavaScript warning: http://www.zjtax.gov.cn/module/jslib/jquery/jquery.js, line 139: unreachable code after return statement
+1509592351518	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1509592351518	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1509592351518	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1509592351519	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+[Parent 14452] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14776] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509592351643	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1509592388198	geckodriver	INFO	geckodriver 0.19.1
+1509592388212	geckodriver	INFO	Listening on 127.0.0.1:35091
+1509592390308	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hxd\\AppData\\Local\\Temp\\rust_mozprofile.xiN2gbRRhZNx"
+1509592390792	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509592391476	Marionette	INFO	Enabled via --marionette
+[Parent 13976] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17492] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17492] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509592394354	Marionette	INFO	Listening on port 35101
+1509592394492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509592394565	Marionette	DEBUG	Register listener.js for window 4294967297
+1509592394628	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509592395274	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509592395275	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509592395604	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509592396590	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509592406844	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509592407156	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509592407159	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509592407686	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509592407692	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509592408034	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509592408375	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1349,350)texture11: false Code: 0x8007000e
+[GFX1-]: Failed 2 buffer db=00000000 dw=00000000 for 0, 185, 1349, 350
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1274,2432)texture11: false Code: 0x8007000e
+[GFX1-]: Failed 2 buffer db=00000000 dw=00000000 for 75, 0, 1274, 2432
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1349,350)texture11: false Code: 0x8007000e
+[GFX1-]: Failed 2 buffer db=00000000 dw=00000000 for 0, 185, 1349, 350
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1274,2432)texture11: false Code: 0x8007000e
+[GFX1-]: Failed 2 buffer db=00000000 dw=00000000 for 75, 0, 1274, 2432
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1349,350)texture11: false Code: 0x8007000e
+[GFX1-]: Failed 2 buffer db=00000000 dw=00000000 for 0, 185, 1349, 350
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1274,2432)texture11: false Code: 0x8007000e
+[GFX1-]: Failed 2 buffer db=00000000 dw=00000000 for 75, 0, 1274, 2432
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1349,350)texture11: false Code: 0x8007000e
+[GFX1-]: Failed 2 buffer db=00000000 dw=00000000 for 0, 185, 1349, 350
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1274,2432)texture11: false Code: 0x8007000e
+[GFX1-]: Failed 2 buffer db=00000000 dw=00000000 for 75, 0, 1274, 2432
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1349,350)texture11: false Code: 0x8007000e
+[GFX1-]: Failed 2 buffer db=00000000 dw=00000000 for 0, 185, 1349, 350
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1274,2432)texture11: false Code: 0x8007000e
+[GFX1-]: Failed 2 buffer db=00000000 dw=00000000 for 75, 0, 1274, 2432
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1274,2432)texture11: false Code: 0x8007000e
+[GFX1-]: Failed 2 buffer db=00000000 dw=00000000 for 75, 0, 1274, 2432
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1274,2432)texture11: false Code: 0x8007000e
+[GFX1-]: Failed 2 buffer db=00000000 dw=00000000 for 75, 0, 1274, 2432
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1274,2432)texture11: false Code: 0x8007000e
+[GFX1-]: Failed 2 buffer db=00000000 dw=00000000 for 75, 0, 1274, 2432
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1274,2432)texture11: false Code: 0x8007000e
+[GFX1-]: Failed 2 buffer db=00000000 dw=00000000 for 75, 0, 1274, 2432
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1274,2432)texture11: false Code: 0x8007000e
+[GFX1-]: Failed 2 buffer db=00000000 dw=00000000 for 75, 0, 1274, 2432
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1274,2432)texture11: false Code: 0x8007000e
+[Parent 13976] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11160] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13976] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+p\\rust_mozprofile.zkvULGFKJu7r"
+1509592659467	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509592660095	Marionette	INFO	Enabled via --marionette
+[Child 18656] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18656] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509592662943	Marionette	INFO	Listening on port 38319
+1509592663029	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509592663097	Marionette	DEBUG	Register listener.js for window 4294967297
+1509592663193	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509592663989	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509592663990	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509592664289	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509592665298	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509592675510	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509592675809	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509592675813	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509592676313	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509592676315	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509592676627	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509592676932	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode132
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode133
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode168
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode169
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode187
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode188
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode192
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode193
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode194
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode195
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode196
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode197
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode198
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode199
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode200
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode201
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode202
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode203
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode205
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode206
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode207
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode208
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode209
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode210
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode234
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode235
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode237
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode238
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode239
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode240
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode241
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode242
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode243
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode244
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode245
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode246
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode247
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode248
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode249
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode250
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode251
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode252
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode253
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode254
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode255
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode256
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn1.child1/highlighter31
+[Parent 12428] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12428] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9288] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9288] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+emoval of an actor we didn't know about: server1.conn2.child1/domnode1053
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1054
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1061
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1062
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1063
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1064
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1065
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1066
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1107
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1108
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1109
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1110
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1355
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1356
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1357
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1358
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1376
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1377
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1378
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1379
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1385
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1386
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1387
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1388
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1389
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1390
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1393
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1394
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1395
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1396
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1397
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1398
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1399
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1400
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1402
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1403
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1405
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1406
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1407
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn2.child1/domnode1408
+[Parent 6032] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6032] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20460] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6032] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11424] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+//gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509600373451	Marionette	INFO	Enabled via --marionette
+[Child 16468] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16468] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509600376406	Marionette	INFO	Listening on port 48089
+1509600377393	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509600377450	Marionette	DEBUG	Register listener.js for window 4294967297
+1509600377493	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509600378506	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509600378506	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509600378911	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509600379910	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+[Child 18240] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13808] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1509600391827	geckodriver	INFO	geckodriver 0.19.1
+1509600391851	geckodriver	INFO	Listening on 127.0.0.1:48991
+1509600393954	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hxd\\AppData\\Local\\Temp\\rust_mozprofile.3QfjUe0NpGd7"
+1509600394856	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509600395540	Marionette	INFO	Enabled via --marionette
+[Child 10484] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509600398599	Marionette	INFO	Listening on port 49689
+1509600399289	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509600399341	Marionette	DEBUG	Register listener.js for window 4294967297
+1509600399380	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509600400047	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509600400047	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509600400492	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509600401271	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509600411462	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509600411795	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509600411798	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509600412279	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509600412281	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509600412698	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509600413024	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+[Parent 18832] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16904] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18832] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+AddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509601176204	Marionette	INFO	Enabled via --marionette
+1509601179933	Marionette	INFO	Listening on port 56998
+1509601180087	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509601180206	Marionette	DEBUG	Register listener.js for window 4294967297
+1509601180298	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509601180798	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509601180798	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509601181167	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509601182137	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509601192391	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509601192720	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509601192722	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509601193158	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509601193162	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509601193574	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509601193915	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+[Child 21264] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+x.exe" "-marionette" "-profile" "C:\\Users\\hxd\\AppData\\Local\\Temp\\rust_mozprofile.rshdTZ9MyiJy"
+1509601585238	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509601586418	Marionette	INFO	Enabled via --marionette
+[Child 21220] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21220] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509601590512	Marionette	INFO	Listening on port 60522
+1509601590855	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509601590927	Marionette	DEBUG	Register listener.js for window 4294967297
+1509601590993	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509601591564	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509601591565	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509601592068	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509601593146	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509601603347	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509601603688	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509601603689	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509601604156	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509601604159	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509601604563	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509601604906	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+1509601610331	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+[Parent 20180] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8472] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 20456] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509601692135	Marionette	INFO	Enabled via --marionette
+1509601695716	Marionette	INFO	Listening on port 62911
+1509601695934	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509601696001	Marionette	DEBUG	Register listener.js for window 4294967297
+1509601696077	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509601696622	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509601696623	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509601697392	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509601698439	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509601708744	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509601709073	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509601709075	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509601709496	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509601709498	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509601710111	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509601710468	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+[Child 20300] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 22224] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509601747818	Marionette	INFO	Enabled via --marionette
+1509601751943	Marionette	INFO	Listening on port 64515
+[Child 22464] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22464] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509601752264	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509601752326	Marionette	DEBUG	Register listener.js for window 4294967297
+1509601752395	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509601752875	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509601752875	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509601753216	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509601754277	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509601764640	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509601765048	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509601765058	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509601765500	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509601765503	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509601766018	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509601766480	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1349,350)texture11: false Code: 0x8007000e
+[GFX1-]: Failed 2 buffer db=00000000 dw=00000000 for 0, 185, 1349, 350
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1200,481)texture11: false Code: 0x8007000e
+[GFX1-]: Failed 2 buffer db=00000000 dw=00000000 for 75, 149, 1200, 481
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1349,350)texture11: false Code: 0x8007000e
+[GFX1-]: Failed 2 buffer db=00000000 dw=00000000 for 0, 185, 1349, 350
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1200,481)texture11: false Code: 0x8007000e
+[GFX1-]: Failed 2 buffer db=00000000 dw=00000000 for 75, 149, 1200, 481
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509602200229	Marionette	INFO	Enabled via --marionette
+[Child 3576] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3576] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509602204777	Marionette	INFO	Listening on port 5697
+1509602205948	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509602206013	Marionette	DEBUG	Register listener.js for window 4294967297
+1509602206123	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509602206814	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509602206814	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509602207397	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509602208652	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509602219095	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509602219498	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509602219503	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509602220033	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509602220035	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509602220522	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509602221204	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+[Parent 19192] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21988] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 15388] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509602904399	Marionette	INFO	Enabled via --marionette
+[Child 19904] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19904] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509602908942	Marionette	INFO	Listening on port 11640
+1509602909131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509602909195	Marionette	DEBUG	Register listener.js for window 4294967297
+1509602909236	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509602910414	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509602910415	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509602910833	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+[GFX1]: [D2D1.1] 3CreateBitmap failure Size(2000,200) Code: 0x8899000c format 0
+[GFX1]: Failed to create DrawTarget, Type: 5 Size: Size(2000,200)
+JavaScript warning: https://h2img.guahao.com/common/js/plugins/scout.js?_=1509448177de3068, line 2: Error: WebGL warning: Failed to create WebGL context: Initializing WebGL backbuffer failed.
+JavaScript warning: https://h2img.guahao.com/common/js/plugins/scout.js?_=1509448177de3068, line 2: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Error during ANGLE OpenGL init.
+* Error during ANGLE OpenGL init.
+* Error during ANGLE OpenGL init.
+* Error during ANGLE OpenGL init.
+* Error during ANGLE OpenGL init.
+* Exhausted GL driver caps.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 4
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150084,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150078,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 22060] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22060] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509602912871	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 4404] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1509602934964	geckodriver	INFO	geckodriver 0.19.1
+1509602934982	geckodriver	INFO	Listening on 127.0.0.1:11846
+1509602937132	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hxd\\AppData\\Local\\Temp\\rust_mozprofile.OsX9LvpGM26b"
+1509602937969	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509602938618	Marionette	INFO	Enabled via --marionette
+[Child 2040] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2040] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509602941531	Marionette	INFO	Listening on port 12514
+1509602942460	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509602942519	Marionette	DEBUG	Register listener.js for window 4294967297
+1509602942565	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509602943109	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509602943110	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509602943799	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509602944538	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+[Child 22044] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 21684] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1509602964324	geckodriver	INFO	geckodriver 0.19.1
+1509602964340	geckodriver	INFO	Listening on 127.0.0.1:12641
+1509602966448	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hxd\\AppData\\Local\\Temp\\rust_mozprofile.oLf8C3gM7Sew"
+1509602966954	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509602967603	Marionette	INFO	Enabled via --marionette
+[Parent 10104] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19864] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19864] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509602970794	Marionette	INFO	Listening on port 12650
+1509602971741	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509602971818	Marionette	DEBUG	Register listener.js for window 4294967297
+1509602971871	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509602972396	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509602972396	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509602973449	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509602974119	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509602984294	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509602984617	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509602984619	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509602985072	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509602985074	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509602985407	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509602985713	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+[Child 15892] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+x.exe" "-marionette" "-profile" "C:\\Users\\hxd\\AppData\\Local\\Temp\\rust_mozprofile.TIZDFsg0tRcK"
+1509603213649	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509603215233	Marionette	INFO	Enabled via --marionette
+[Parent 23792] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509603218001	Marionette	INFO	Listening on port 16053
+1509603218418	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509603218468	Marionette	DEBUG	Register listener.js for window 4294967297
+1509603218494	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509603219091	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509603219091	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509603219354	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509603220078	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509603230283	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509603230560	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509603230562	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509603231040	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509603231043	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509603231377	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509603231698	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+[Child 19552] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 21700] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+pi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509603278486	Marionette	INFO	Enabled via --marionette
+1509603281804	Marionette	INFO	Listening on port 17566
+1509603282139	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509603282209	Marionette	DEBUG	Register listener.js for window 4294967297
+1509603282260	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509603282783	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509603282783	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509603283034	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509603283711	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509603293870	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509603294151	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509603294153	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509603294588	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509603294594	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509603294910	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509603295198	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+[GPU 22100] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1509603341063	geckodriver	INFO	geckodriver 0.19.1
+1509603341081	geckodriver	INFO	Listening on 127.0.0.1:19129
+1509603343161	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hxd\\AppData\\Local\\Temp\\rust_mozprofile.zd0HNuy3R4wA"
+1509603343629	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509603344233	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/SanityTest.js, line 69: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1509603365686	Marionette	INFO	Listening on port 19145
+[Child 21368] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509603365789	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509603365836	Marionette	DEBUG	Register listener.js for window 4294967297
+1509603365855	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509603366416	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509603366416	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509603366701	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509603367401	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509603377572	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509603377878	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509603377881	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509603378360	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509603378363	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509603378755	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509603379086	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+[Parent 23488] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_wi1509603441331	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hxd\\AppData\\Local\\Temp\\rust_mozprofile.S7toQAWLOaCt"
+1509603441817	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509603442486	Marionette	INFO	Enabled via --marionette
+1509603445382	Marionette	INFO	Listening on port 20798
+1509603445520	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509603445588	Marionette	DEBUG	Register listener.js for window 4294967297
+1509603445659	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509603446218	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509603446218	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509603446494	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509603447289	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509603457506	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509603457806	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509603457809	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509603458253	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509603458258	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509603458580	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509603458953	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+[Parent 22916] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 22916] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509603669441	Marionette	INFO	Enabled via --marionette
+[Child 23112] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23112] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509603673225	Marionette	INFO	Listening on port 24091
+1509603673336	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509603673409	Marionette	DEBUG	Register listener.js for window 4294967297
+1509603673474	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509603674031	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509603674032	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509603674350	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509603675127	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509603685333	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509603685651	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509603685653	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509603686261	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509603686262	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509603686559	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509603686886	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+[Parent 21336] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20804] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 19368] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509603725899	Marionette	INFO	Enabled via --marionette
+[Child 22772] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509603729660	Marionette	INFO	Listening on port 25720
+1509603729922	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509603729993	Marionette	DEBUG	Register listener.js for window 4294967297
+1509603730078	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509603730638	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509603730639	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509603730949	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509603731742	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509603741957	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509603742368	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509603742375	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509603742878	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509603742880	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509603743297	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509603743623	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+[Child 17924] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[Parent 996] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+i	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509603782095	Marionette	INFO	Enabled via --marionette
+[Child 19628] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19628] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509603785297	Marionette	INFO	Listening on port 28096
+1509603786181	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509603786248	Marionette	DEBUG	Register listener.js for window 4294967297
+1509603786308	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509603786862	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509603786862	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509603787186	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509603787865	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509603798089	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509603798413	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509603798415	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509603799209	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509603799212	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509603799600	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509603799952	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+[Parent 14088] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22420] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1509603851893	geckodriver	INFO	geckodriver 0.19.1
+1509603851918	geckodriver	INFO	Listening on 127.0.0.1:29848
+1509603854050	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hxd\\AppData\\Local\\Temp\\rust_mozprofile.bNgbRxA48V1w"
+1509603854718	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509603855372	Marionette	INFO	Enabled via --marionette
+[Child 12880] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12880] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509603858317	Marionette	INFO	Listening on port 30462
+1509603859355	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509603859417	Marionette	DEBUG	Register listener.js for window 4294967297
+1509603859471	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509603860124	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509603860124	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509603860400	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509603861248	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509603871444	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509603871721	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509603871723	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509603872189	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509603872194	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509603872543	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509603872840	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+[Child 5036] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19860] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 16440] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509603898564	Marionette	INFO	Enabled via --marionette
+[Child 14704] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14704] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509603901993	Marionette	INFO	Listening on port 31393
+1509603902386	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509603902457	Marionette	DEBUG	Register listener.js for window 4294967297
+1509603902528	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509603903149	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509603903149	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509603903404	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509603904119	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509603914308	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509603914593	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509603914595	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509603915052	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509603915056	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509603915436	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509603915777	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ng on 127.0.0.1:32197
+1509603944440	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hxd\\AppData\\Local\\Temp\\rust_mozprofile.UEc9I9c1UXVC"
+1509603945112	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509603946112	Marionette	INFO	Enabled via --marionette
+[Child 22316] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22316] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509603949845	Marionette	INFO	Listening on port 32219
+1509603950186	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509603950249	Marionette	DEBUG	Register listener.js for window 4294967297
+1509603950314	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509603951021	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509603951021	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509603951419	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509603952155	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509603962393	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509603962684	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509603962686	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509603963123	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509603963125	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509603963521	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509603963850	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+[Child 24236] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6984] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 17040] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1509604213497	geckodriver	INFO	geckodriver 0.19.1
+1509604213512	geckodriver	INFO	Listening on 127.0.0.1:35376
+1509604215688	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hxd\\AppData\\Local\\Temp\\rust_mozprofile.slwvnRREW13h"
+1509604216375	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509604217306	Marionette	INFO	Enabled via --marionette
+[Child 6748] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6748] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509604220214	Marionette	INFO	Listening on port 35518
+1509604221156	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509604221224	Marionette	DEBUG	Register listener.js for window 4294967297
+1509604221269	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509604221794	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509604221795	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509604222055	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509604222799	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509604233007	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509604233281	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509604233284	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509604234156	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509604234158	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509604234560	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509604235071	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ng on 127.0.0.1:41971
+1509612808325	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hxd\\AppData\\Local\\Temp\\rust_mozprofile.bHYayUrtKC4B"
+1509612808880	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509612809598	Marionette	INFO	Enabled via --marionette
+[Child 21456] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21456] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2400FC,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/extension-process-script.js, line 339: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+1509612812504	Marionette	INFO	Listening on port 41993
+1509612813614	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509612813701	Marionette	DEBUG	Register listener.js for window 4294967297
+1509612813754	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509612814421	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509612814421	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509612814954	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509612816032	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509612826304	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509612826619	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509612826621	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509612827279	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509612827282	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509612827754	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509612828033	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+[Child 18596] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+x.exe" "-marionette" "-profile" "C:\\Users\\hxd\\AppData\\Local\\Temp\\rust_mozprofile.5nZSsh9picEZ"
+1509612975928	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509612976652	Marionette	INFO	Enabled via --marionette
+1509612979907	Marionette	INFO	Listening on port 44361
+1509612980634	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509612980705	Marionette	DEBUG	Register listener.js for window 4294967297
+1509612980764	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509612981352	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509612981352	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509612981628	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509612982560	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509612992808	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509612993123	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509612993125	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509612993748	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509612993751	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509612994210	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509612994518	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ng on 127.0.0.1:46023
+1509613079164	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hxd\\AppData\\Local\\Temp\\rust_mozprofile.fhNNrNOuxSc7"
+1509613080138	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509613081148	Marionette	INFO	Enabled via --marionette
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 4680] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4680] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509613085267	Marionette	INFO	Listening on port 46103
+1509613085729	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509613085792	Marionette	DEBUG	Register listener.js for window 4294967297
+1509613085936	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509613086536	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509613086536	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509613086914	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509613087935	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509613098179	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509613098506	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509613098508	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509613099115	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509613099119	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509613099581	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509613100054	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+[Parent 4168] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17148] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509613163255	Marionette	INFO	Enabled via --marionette
+[Child 20296] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20296] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509613166860	Marionette	INFO	Listening on port 48385
+1509613167040	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509613167106	Marionette	DEBUG	Register listener.js for window 4294967297
+1509613167183	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509613167764	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509613167765	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509613168264	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509613169487	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509613179719	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509613180029	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509613180031	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509613180660	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509613180671	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509613181050	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509613181449	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ng on 127.0.0.1:48873
+1509613193340	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hxd\\AppData\\Local\\Temp\\rust_mozprofile.JEu7wuDjFGX3"
+1509613194152	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509613194928	Marionette	INFO	Enabled via --marionette
+[Child 19976] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19976] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509613198354	Marionette	INFO	Listening on port 49271
+1509613198915	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509613198979	Marionette	DEBUG	Register listener.js for window 4294967297
+1509613199026	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509613199837	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509613199837	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509613200257	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509613201657	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509613211928	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509613212361	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509613212363	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509613212948	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509613212953	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509613213373	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509613213850	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+[Child 24556] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1509613245910	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509613247165	Marionette	INFO	Enabled via --marionette
+[Child 24824] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24824] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509613251528	Marionette	INFO	Listening on port 50177
+1509613251577	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509613251655	Marionette	DEBUG	Register listener.js for window 4294967297
+1509613251764	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509613252399	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509613252399	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509613253758	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509613254962	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509613265241	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509613265583	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509613265585	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509613266098	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509613266100	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509613266560	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509613266991	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+[Child 23784] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23784] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1509669373871	geckodriver	INFO	geckodriver 0.19.1
+1509669373890	geckodriver	INFO	Listening on 127.0.0.1:54771
+1509669376009	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hxd\\AppData\\Local\\Temp\\rust_mozprofile.RobExLZiw4TA"
+1509669376725	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509669377384	Marionette	INFO	Enabled via --marionette
+[Child 17216] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17216] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509669380559	Marionette	INFO	Listening on port 54783
+1509669381401	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509669381461	Marionette	DEBUG	Register listener.js for window 4294967297
+1509669381504	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509669381908	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509669381908	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509669382212	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509669382964	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509669393179	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509669393563	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509669393565	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509669394158	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509669394162	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509669395161	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509669395902	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+[Parent 29240] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26528] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26528] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+IAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509676775300	Marionette	INFO	Enabled via --marionette
+1509676778525	Marionette	INFO	Listening on port 64787
+1509676779186	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509676779259	Marionette	DEBUG	Register listener.js for window 4294967297
+1509676779331	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509676780187	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509676780188	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509676780695	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509676781460	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509676791777	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509676792380	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509676792384	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509676795697	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509676795700	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509676798643	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509676830213	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+61301	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509676862258	Marionette	INFO	Enabled via --marionette
+[Child 9120] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509676865790	Marionette	INFO	Listening on port 1946
+1509676866214	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509676866280	Marionette	DEBUG	Register listener.js for window 4294967297
+1509676866349	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509676868813	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509676868813	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509676869344	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509676870782	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509676881196	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509676881743	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509676881746	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509676882220	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509676882225	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509676882718	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509676883322	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+[Child 10252] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10252] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25236] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19884] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 16248] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+//gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509677763747	Marionette	INFO	Enabled via --marionette
+[Parent 7624] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 29016] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 29016] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509677767188	Marionette	INFO	Listening on port 9467
+1509677767605	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509677767680	Marionette	DEBUG	Register listener.js for window 4294967297
+1509677767746	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509677768406	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509677768406	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509677770098	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509677772268	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509677782574	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509677782999	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509677783004	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509677783570	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509677783581	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509677783996	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509677784425	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ng on 127.0.0.1:9579
+1509677830095	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hxd\\AppData\\Local\\Temp\\rust_mozprofile.gIonj3vTVWxP"
+1509677830977	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509677831835	Marionette	INFO	Enabled via --marionette
+[Child 17508] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17508] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509677836088	Marionette	INFO	Listening on port 9590
+1509677836637	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509677836715	Marionette	DEBUG	Register listener.js for window 4294967297
+1509677836927	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509677837464	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509677837465	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509677838354	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509677845888	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509677856288	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509677856656	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509677856660	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509677857305	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509677857308	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509677857674	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509677863796	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+[Child 24660] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3400] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 25584] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1509678837622	geckodriver	INFO	geckodriver 0.19.1
+1509678837641	geckodriver	INFO	Listening on 127.0.0.1:16080
+1509678839745	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hxd\\AppData\\Local\\Temp\\rust_mozprofile.R0P26RPNXxqE"
+1509678840275	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509678841013	Marionette	INFO	Enabled via --marionette
+1509678844675	Marionette	INFO	Listening on port 16095
+1509678845070	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509678845138	Marionette	DEBUG	Register listener.js for window 4294967297
+1509678845194	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509678845701	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509678845702	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509678846120	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509678847180	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509678857617	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 22964] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 22936] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1509678892101	geckodriver	INFO	geckodriver 0.19.1
+1509678892119	geckodriver	INFO	Listening on 127.0.0.1:17697
+1509678894298	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hxd\\AppData\\Local\\Temp\\rust_mozprofile.IlNEBYKTkPKv"
+1509678895089	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509678896050	Marionette	INFO	Enabled via --marionette
+[Child 29764] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 29764] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509678899439	Marionette	INFO	Listening on port 17834
+1509678899763	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509678899837	Marionette	DEBUG	Register listener.js for window 4294967297
+1509678899895	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509678900397	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509678900397	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509678900763	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509678924252	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+[Child 20120] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20120] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10188] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509678927959	geckodriver	INFO	geckodriver 0.19.1
+1509678927976	geckodriver	INFO	Listening on 127.0.0.1:18542
+1509678930195	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hxd\\AppData\\Local\\Temp\\rust_mozprofile.rVsmDOxwFDng"
+1509678931045	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509678932123	Marionette	INFO	Enabled via --marionette
+[Child 20552] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20552] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509678935408	Marionette	INFO	Listening on port 18868
+1509678935599	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509678935671	Marionette	DEBUG	Register listener.js for window 4294967297
+1509678935768	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509678936292	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509678936293	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509678936650	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509678937228	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509678947456	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509678947800	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509678947804	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509678948198	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509678948203	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509678948631	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509678948973	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+[Parent 17308] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17696] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17308] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+AddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509678995486	Marionette	INFO	Enabled via --marionette
+[Child 30692] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 30692] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509678998966	Marionette	INFO	Listening on port 20573
+1509678999290	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509678999366	Marionette	DEBUG	Register listener.js for window 4294967297
+1509678999434	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509678999989	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509678999989	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509679000386	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509679023112	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+1509679026065	geckodriver	INFO	geckodriver 0.19.1
+1509679026083	geckodriver	INFO	Listening on 127.0.0.1:21718
+1509679028221	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hxd\\AppData\\Local\\Temp\\rust_mozprofile.M2P7QPlFEQUz"
+1509679028908	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509679030147	Marionette	INFO	Enabled via --marionette
+[Child 15712] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15712] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509679034137	Marionette	INFO	Listening on port 21732
+1509679034267	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509679034370	Marionette	DEBUG	Register listener.js for window 4294967297
+1509679034516	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509679035148	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509679035149	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509679035491	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509679055622	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+[Child 29640] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509679060534	geckodriver	INFO	geckodriver 0.19.1
+1509679060552	geckodriver	INFO	Listening on 127.0.0.1:23315
+1509679062652	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hxd\\AppData\\Local\\Temp\\rust_mozprofile.m2QWK5A5yldF"
+1509679063254	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509679063954	Marionette	INFO	Enabled via --marionette
+[Child 12112] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12112] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509679067196	Marionette	INFO	Listening on port 23325
+1509679067936	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509679068000	Marionette	DEBUG	Register listener.js for window 4294967297
+1509679068067	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509679068589	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509679068589	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509679068886	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509679069546	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509679079775	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509679080065	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509679080070	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509679080496	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509679080498	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509679080949	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509679081332	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+[Parent 27912] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+.. "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509679151666	Marionette	INFO	Enabled via --marionette
+[Parent 21800] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13700] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13700] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509679155352	Marionette	INFO	Listening on port 25186
+1509679155949	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509679156013	Marionette	DEBUG	Register listener.js for window 4294967297
+1509679156068	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509679156550	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509679156550	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509679156956	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509679165465	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509679166426	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509679166624	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509679176850	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.guahao.com/user/login"
+1509679177089	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.guahao.com/user/login"
+1509679177098	Marionette	DEBUG	Received DOM event "unload" for "https://www.guahao.com/user/login"
+1509679177547	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/user/login"
+1509679177550	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/user/login"
+1509679177973	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.guahao.com/"
+1509679178462	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.guahao.com/"
+[Child 18608] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18608] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
