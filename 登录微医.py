@@ -8,9 +8,9 @@ wd = webdriver.PhantomJS(
 loginUrl = 'https://www.guahao.com/user/login'
 wd.get(loginUrl)  # 进入登陆界面
 wd.find_element_by_xpath(
-    '//*[@id="loginId"]').send_keys('18768061363')  # 输入用户名
+    '//*[@id="loginId"]').send_keys('1876111111')  # 输入用户名
 wd.find_element_by_xpath(
-    '//*[@id="password"]').send_keys('513shenghewo')  # 输入密码
+    '//*[@id="password"]').send_keys('513s11111111')  # 输入密码
 wd.save_screenshot(str("登录界面.png"))
 wd.find_element_by_name("validCode").send_keys(input("输入验证码\n>>> "))
 wd.find_element_by_xpath('//*[@id="J_LoginSubmit"]').click()  # 点击登陆
