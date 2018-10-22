@@ -12,6 +12,7 @@ cursor = db.cursor()
 try:
     # 使用 execute()  方法执行 SQL 查询
     cursor.execute("SELECT * from user")
+
     #fetchone(): 该方法获取下一个查询结果集。结果集是一个对象
     #fetchall(): 接收全部的返回结果行.
     #rowcount: 这是一个只读属性，并返回执行execute()方法后影响的行数。
